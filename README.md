@@ -10,6 +10,3 @@
 >
 > 
 >
-> # 加入羊咕VIP
->
-> <form action="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__cZDey9UQ0ZDVlA4NEdBT001VTdXRUMxVzVPSzlDVC4u" method="post"> <button type="submit">點此加入</button> </form>
